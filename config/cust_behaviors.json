@@ -14,5 +14,21 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&mmv",
+		"name": "&mmv",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&msc",
+		"name": "&msc",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
