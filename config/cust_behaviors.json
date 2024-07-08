@@ -30,5 +30,13 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&mkp",
+		"name": "&mkp",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
