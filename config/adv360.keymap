@@ -83,7 +83,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                        &trans  &trans              &trans             &trans              &trans             &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                        &trans  &trans              &trans             &trans              &trans             &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans     &trans     &trans  &trans  &mmv MOVE_X(-1200)  &mmv MOVE_Y(1200)  &mmv MOVE_Y(-1200)  &mmv MOVE_X(1200)  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                        &trans              &trans       &msc MOVE_Y(10)      &msc MOVE_Y(-10)             &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                        &trans              &trans       &msc MOVE_Y(15)      &msc MOVE_Y(-15)             &trans  &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &mkp RCLK  &mkp LCLK                      &trans             &trans              &trans             &trans  &trans
             >;
         };
